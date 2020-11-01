@@ -1,2 +1,0 @@
-# Projet-calcul-differentiel
-
